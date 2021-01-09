@@ -1,10 +1,4 @@
 ```python
-import sys
-sys.path.append('E:/pyradox/')
-```
-
-
-```python
 from tensorflow import keras
 import numpy as np
 from pyradox import modules
